@@ -29,3 +29,7 @@ Rust crates are listed with their licences in the third-party licence bundle shi
 release (see docs/licences.md).
 
 Builds made with craft-fonts (CRAFT_FONTS_DIR) also embed the fonts listed in ATTRIBUTION.md.
+
+ZAC - Tai tao phan mem (github.com/zacaiplatform/ZAC-tai-tao-phan-mem) is a modified version
+maintained by zacaiplatform. It is based on Craft Anything by the ArtCraft team and is not made,
+sponsored or endorsed by the ArtCraft Team. The ArtCraft marks have been removed from this fork.
