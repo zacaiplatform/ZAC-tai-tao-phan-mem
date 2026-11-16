@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app-icon/hicolor/256x256/apps/ai.storyteller.craft-anything.png" width="128" height="128" alt="Icon ZAC: chữ Z màu cam giữa cặp ngoặc code trên nền xanh đậm">
+</p>
+
 <h1 align="center">ZAC – Tái tạo phần mềm</h1>
 
 <p align="center">

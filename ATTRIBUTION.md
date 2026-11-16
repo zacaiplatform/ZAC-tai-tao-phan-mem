@@ -37,13 +37,13 @@ texts are in the crate's `fonts/` folder.
 
 ## App icon (`assets/app-icon/`)
 
-The raven, the Crafting Apps' shared icon, made by the ArtCraft team; not open source, used on the
-brand terms below. See `assets/app-icon/LICENSE.txt`.
+The ZAC icon (a "Z" between code brackets), made for this fork by zacaiplatform; it replaces the
+ArtCraft raven, which forks must not ship. See `assets/app-icon/LICENSE.txt`.
 
-## Brand (`docs/brand/`)
+## Brand
 
-The ArtCraft name, wordmark and logos are trademarks of the ArtCraft Team and are not covered by
-the open-source licence; see `docs/brand/LICENSE-brand.txt`.
+The ArtCraft name, wordmark, logos and raven icon are trademarks of the ArtCraft Team. They have
+been removed from this fork, which is based on Craft Anything by the ArtCraft team.
 
 ## Optional build-time fonts
 
